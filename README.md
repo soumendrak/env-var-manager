@@ -1,9 +1,5 @@
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="120" height="120">
-    <rect width="512" height="512" rx="64" fill="#0f0f1a"/>
-    <rect x="64" y="64" width="384" height="384" rx="32" fill="#1a1a2e" stroke="#ff6b35" stroke-width="4"/>
-    <text x="256" y="310" text-anchor="middle" font-family="sans-serif" font-size="200" font-weight="bold" fill="#ff6b35">E</text>
-  </svg>
+  <img src="./logo.svg" alt="env-var-manager" width="120" />
   <h1>Env Variable Manager</h1>
   <p>Encrypted environment variable manager using AES-GCM encryption via Web Crypto API. Manage dev/staging/prod .env files securely in the browser.</p>
 
